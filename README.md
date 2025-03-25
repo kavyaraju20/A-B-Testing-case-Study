@@ -1,7 +1,7 @@
 # A-B-Testing-case-Study
 A/B Testing case study on Advertisements Conversion Rate
 
-# Marketing A/B Testing Dataset
+
 
 ## 📌 About the Dataset
 Marketing companies aim to run **successful advertising campaigns**, but the market is complex, with multiple factors influencing campaign effectiveness. To optimize decision-making, companies conduct **A/B tests**, a randomized experimentation process where different versions of a variable (e.g., web pages, banners, ad placements) are tested against each other to identify which yields the best results.
